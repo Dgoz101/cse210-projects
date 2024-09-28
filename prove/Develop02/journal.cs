@@ -17,7 +17,7 @@ public void AddEntry2()
 
 public void DisplayEntries()
 {
-    Console.Write("These are you journal entries:");
+    Console.WriteLine("These are you journal entries:");
     foreach(Entry entry in _entries)
     {
 
