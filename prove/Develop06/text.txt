@@ -1,0 +1,4 @@
+0
+EternalGoal:pray,say a prayer,100
+SimpleGoal:cardio,run 10 minutes,500,False
+ChecklistGoal:temple,visit temple 10 times,50,1000,10,0
